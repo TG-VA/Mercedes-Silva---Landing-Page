@@ -98,7 +98,7 @@ header img{
     width: 13px;
     height: 8px;
     margin-left: 10px;
-    background-image: url('./assets/icons/down-arrow.svg');
+    background-image: url('../assets/icons/down-arrow.svg');
 }
 
 main {
@@ -129,7 +129,7 @@ main {
     border-radius: 5px;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-image: url('./assets/Images/image-principal.jpg');
+    background-image: url('../assets/Images/image-principal.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -218,7 +218,7 @@ main {
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url('./assets/icons/trending-down.svg');
+    background-image: url('../assets/icons/trending-down.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -229,7 +229,7 @@ main {
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url('./assets/icons/trending-up.svg');
+    background-image: url('../assets/icons/trending-up.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -327,7 +327,7 @@ main {
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url('./assets/icons/trending-down.svg');
+    background-image: url('../assets/icons/trending-down.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -338,7 +338,7 @@ main {
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url('./assets/icons/trending-up.svg');
+    background-image: url('../assets/icons/trending-up.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -399,19 +399,19 @@ main {
 }
 
 .Bebidas {
-    background-image: url("./assets/icons/malteada.png");
+    background-image: url("../assets/icons/malteada.png");
 }
 
 .pastel {
-    background-image: url('./assets/icons/pastel.png')
+    background-image: url('../assets/icons/pastel.png')
 }
 
 .Gelatos {
-    background-image: url('./assets/icons/gelato.png');
+    background-image: url('../assets/icons/gelato.png');
 }
 
 .Baguette{
-    background-image: url('./assets/icons/baguette.png');
+    background-image: url('../assets/icons/baguette.png');
 }
 
 .product--card-title{
@@ -560,7 +560,7 @@ main {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url('./assets/icons/orange-right-arrow.svg');
+    background-image: url('../assets/icons/orange-right-arrow.svg');
     vertical-align: text-bottom;
 
 }
