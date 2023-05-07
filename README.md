@@ -1,5 +1,6 @@
 # MERCEDES SILVA | LANDING PAGE
 > Mobile version
+
 [![https://i.imgur.com/OM7yxgQ.gif](https://i.imgur.com/OM7yxgQ.gif "https://i.imgur.com/OM7yxgQ.gif")](https://i.imgur.com/OM7yxgQ.gif "https://i.imgur.com/OM7yxgQ.gif")
 
 ### 📄Content 
